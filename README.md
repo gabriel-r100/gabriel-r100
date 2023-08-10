@@ -1,11 +1,11 @@
-<h1>Hi, I'm Gabriel! <br/>Aspiring Cybersecurity Analyst</h1>
+<h1>Hi, I'm Gabriel! <br/>Aspiring Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cloud Project</b>
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
- 
-- 
+- <b>Python</b>
+  - Algorithm for file updates in Python
 - 🔭 I’m currently working on
   - Cybersecurity projects
 
