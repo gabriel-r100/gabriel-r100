@@ -4,6 +4,8 @@
 
 - <b>Cloud Project</b>
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
+- <b>SQL</b>
+  - [Applying SQL filters to queries](https://github.com/gabriel-r100/Applying-SQL-filters)
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
 - 🔭 I’m currently working on
