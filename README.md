@@ -10,8 +10,7 @@
   - [File and directory permissions](github.com/gabriel-r100/Linux-File-Permissions)
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
-- 🌱 I’m currently learning ...
-  - Vulnerability Management
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -30,4 +29,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning ...
+  - Vulnerability Management
 -->
