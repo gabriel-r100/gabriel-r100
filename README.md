@@ -10,8 +10,8 @@
   - [File and directory permissions](github.com/gabriel-r100/Linux-File-Permissions)
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
-- 🔭 I’m currently working on
-  - Cybersecurity projects
+- 🌱 I’m currently learning ...
+  - Vulnerability Management
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -23,7 +23,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
