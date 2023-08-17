@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gabriel! <br/>Aspiring Cybersecurity Professional</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity and Skills Projects:</h2>
 
 - <b>Cloud Project</b>
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
