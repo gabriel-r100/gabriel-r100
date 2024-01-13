@@ -10,8 +10,9 @@
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
 
-<h2> 🌱 I’m currently learning Linux</h2>
-<b>  Kali Linux using the book "Linux Basics for Hackers"</b>
+<h2> 🌱 I’m currently learning Linux using the book "Linux Basics for Hackers"</h2>
+
+- <b> General</b>
   - [File & Directory Permissions](https://github.com/gabriel-r100/Linux-File-Permissions)
         
 <h2> 🤳 Connect with me:</h2>
