@@ -6,12 +6,12 @@
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
 - <b>SQL</b>
   - [Applying SQL filters to queries](https://github.com/gabriel-r100/Applying-SQL-filters)
-- <b>Linux</b>
-  - [File and directory permissions](github.com/gabriel-r100/Linux-File-Permissions)
+
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
 
-<h2> 🌱 I’m currently learning Kali Linux with the book "Linux Basics for Hackers"
+<h2> 🌱 I’m currently learning Kali Linux with the book "Linux Basics for Hackers"</h2>
+  - [File and directory permissions](https://github.com/gabriel-r100/Linux-File-Permissions.git)
 
 <h2> 🤳 Connect with me:</h2>
 
