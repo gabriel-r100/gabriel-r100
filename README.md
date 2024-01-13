@@ -11,6 +11,8 @@
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
 
+<h2> 🌱 I’m currently learning ...
+- Kali Linux with the book "Linux Basics for Hackers"
 
 <h2> 🤳 Connect with me:</h2>
 
