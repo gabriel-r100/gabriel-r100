@@ -1,5 +1,11 @@
 <h1>Hi, I'm Gabriel! <br/>IT Professional</h1>
- Active Certifications: CCNA; CompTIA Security+, Network+, A+; AZ-900: Microsoft Azure Fundamentals
+ Working on developing my skills as an IT professional.<br>
+ Currently working on adding my projects onto Github.
+
+<h2>Active Certifications:<br></h2> 
+ Cisco:<br> - CCNA<br>
+ CompTIA:<br> - Security+, Network+, A+<br>
+ Microsoft:<br> - AZ-900: Microsoft Azure Fundamentals
 
 <h2>👨‍💻 Projects:</h2>
 
