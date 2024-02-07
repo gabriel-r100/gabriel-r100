@@ -11,7 +11,7 @@
 
 - <b>Cloud Projects</b>
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
-  - [Cloud Uploader via CLI] - working on project
+  - [Cloud Uploader via CLI](https://github.com/gabriel-r100/Cloud-Uploader) - working on project
 - <b>Network Projects</b>
   - [VLAN and Router Sub-Interface Configuration](https://github.com/gabriel-r100/Network-Administration-VLAN-and-Sub-Interfaces) - completed, working on uploading to github
 - <b>Active Directory and Powershell</b>
