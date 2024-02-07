@@ -1,12 +1,19 @@
-<h1>Hi, I'm Gabriel! <br/>Aspiring Cybersecurity Professional</h1>
+<h1>Hi, I'm Gabriel! <br/>IT Professional</h1>
 
-<h2>👨‍💻 Cybersecurity and Skills Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Cloud Project</b>
+- <b>Cloud Projects</b>
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
+  - [Cloud uploader] - working on project
+- <b>Network Projects</b>
+  - [VLAN and Router Sub-Interface Configuration] - completed, working on uploading to github
+- <b>Active Directory and Powershell</b>
+  - [Creating and Managing Users] - completed, working on uploading to github
+  
+<h3>⚡ Skills</h3>
+
 - <b>SQL</b>
   - [Applying SQL filters to queries](https://github.com/gabriel-r100/Applying-SQL-filters)
-
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
 
