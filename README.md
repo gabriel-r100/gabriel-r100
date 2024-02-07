@@ -13,7 +13,7 @@
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
   - [Cloud uploader] - working on project
 - <b>Network Projects</b>
-  - [VLAN and Router Sub-Interface Configuration] - completed, working on uploading to github
+  - [VLAN and Router Sub-Interface Configuration](https://github.com/gabriel-r100/Network-Administration-VLAN-and-Sub-Interfaces) - completed, working on uploading to github
 - <b>Active Directory and Powershell</b>
   - [Creating and Managing Users](https://github.com/gabriel-r100/Creating-and-Managing-Users) - completed, working on uploading to github
   
