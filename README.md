@@ -15,7 +15,7 @@
 - <b>Network Projects</b>
   - [VLAN and Router Sub-Interface Configuration] - completed, working on uploading to github
 - <b>Active Directory and Powershell</b>
-  - [Creating and Managing Users] - completed, working on uploading to github
+  - [Creating and Managing Users](https://github.com/gabriel-r100/Creating-and-Managing-Users) - completed, working on uploading to github
   
 <h3>⚡ Skills</h3>
 
