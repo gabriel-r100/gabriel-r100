@@ -23,11 +23,10 @@
   - [Applying SQL filters to queries](https://github.com/gabriel-r100/Applying-SQL-filters)
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
+- <b>Linux</b>
+  - [Linux](https://github.com/gabriel-r100/Linux)
 
 <h2> 🌱 I’m currently learning Linux using the book "Linux Basics for Hackers"</h2>
-
-- <b> General</b>
-  - [File & Directory Permissions](https://github.com/gabriel-r100/Linux-File-Permissions)
         
 <h2> 🤳 Connect with me:</h2>
 
