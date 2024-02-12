@@ -16,7 +16,7 @@
   - [Cloud Uploader via CLI](https://github.com/gabriel-r100/Cloud-Uploader)
     - Bash script using Azure CLI commands to upload to a designated storage blob. Validates input, and allows for errors to advise on issues uploading.
 - <b>🔌 Network Projects</b>
-  - [VLAN and Router Sub-Interface Configuration](https://github.com/gabriel-r100/Network-Administration-VLAN-and-Sub-Interfaces) - completed, working on uploading to github
+  - [VLAN and Router Sub-Interface Configuration](https://github.com/gabriel-r100/Network-Administration-VLAN-and-Sub-Interfaces)
     - Cisco network administration. Switch VLAN, management IP, and switchport configuration. Router sub-interface, data/management vlan, DHCP, and ACL configurations.
 - <b>🔗 Active Directory and Powershell</b>
   - [Creating and Managing Users](https://github.com/gabriel-r100/Creating-and-Managing-Users) - completed, working on uploading to github
