@@ -4,7 +4,6 @@
 
 [linkedin]: https://www.linkedin.com/in/gabriel-r100
 
-<br>
  Working on developing my skills as an IT professional.<br>
  Currently working on adding my projects onto Github.<br>
 <h4>Active Certifications:</h4>
