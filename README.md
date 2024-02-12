@@ -1,4 +1,10 @@
-<h1>Hi, I'm Gabriel! <br/>IT Professional</h1>
+<h1>Hi, I'm Gabriel! IT Professional</h1>
+<h3>Connect with me at 
+<img alt="Gabriel Roque" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></h3>
+
+[linkedin]: https://www.linkedin.com/in/gabriel-r100
+
+<br>
  Working on developing my skills as an IT professional.<br>
  Currently working on adding my projects onto Github.<br>
 <h4>Active Certifications:</h4>
@@ -25,12 +31,7 @@
 - <b>[Linux](https://github.com/gabriel-r100/Linux)</b>
 
 <h2> 🌱 I’m currently learning Linux using the book "Linux Basics for Hackers"</h2>
-        
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Gabriel Roque" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/gabriel-r100
 
 <!--
 
