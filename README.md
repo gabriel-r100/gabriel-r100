@@ -13,6 +13,9 @@
 
 - <b>☁ Cloud Projects</b>
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
+    - Deploy resources in Azure, including Azure Key Vault, Azure Storage Accounts, Storage Containers, Windows and Linux Virtual Machines. Additionally we worked with Subscription-level and Resource-group objects, configuring logging for all these objects.
+    - Configured logging forwarding into a central logging database to emulate a SIEM.
+    - Use KQL to query database and automatically generate incidents as well as following NIST 800-61 incident response to various triggered events.
   - [Cloud Uploader via CLI](https://github.com/gabriel-r100/Cloud-Uploader)
     - Bash script using Azure CLI commands to upload to a designated storage blob. Validates input, and allows for errors to advise on issues uploading.
 - <b>🔌 Network Projects</b>
