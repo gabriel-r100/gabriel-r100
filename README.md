@@ -34,7 +34,7 @@
 - <b>[Linux](https://github.com/gabriel-r100/Linux)</b>
   - Directory navigation, file/directory permissions and ownership
 
-<h2> 🌱 I’m currently learning Linux using the book "Linux Basics for Hackers"</h2>
+<h2> 🌱 I’m currently learning Python using the book "Python Crash Course Edition 3"</h2>
 
 
 <!--
