@@ -32,6 +32,7 @@
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
 - <b>[Linux](https://github.com/gabriel-r100/Linux)</b>
+  - Directory navigation, file/directory permissions and ownership
 
 <h2> 🌱 I’m currently learning Linux using the book "Linux Basics for Hackers"</h2>
 
