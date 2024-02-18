@@ -22,7 +22,7 @@
   - [VLAN and Router Sub-Interface Configuration](https://github.com/gabriel-r100/Network-Administration-VLAN-and-Sub-Interfaces)
     - Cisco network administration. Switch VLAN, management IP, and switchport configuration. Router sub-interface, data/management vlan, DHCP, and ACL configurations.
 - <b>🔗 Active Directory and Powershell</b>
-  - [Active Directory Roles and Features](https://github.com/gabriel-r100/Creating-and-Managing-Users) - completed, working on uploading to github
+  - [Active Directory Roles and Features](https://github.com/gabriel-r100/Creating-and-Managing-Users)
     - Windows Server 2019, configuring Active Directory Services, Routing Services, and DHCP Services. Using PowerShell to generate over a thousand users. Connecting an endpoint to our Active Directory Domain.
   
 <h3>⚡ Skills</h3>
