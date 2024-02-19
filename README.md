@@ -33,6 +33,7 @@
   - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
 - <b>[Linux](https://github.com/gabriel-r100/Linux)</b>
   - Directory navigation, file/directory permissions and ownership
+  - File output, and manipulation with `grep` and `sed`.
 
 <h2> 🌱 I’m currently learning Python using the book "Python Crash Course Edition 3"</h2>
 
