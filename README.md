@@ -29,8 +29,7 @@
 
 - <b>SQL</b>
   - [Applying SQL filters to queries](https://github.com/gabriel-r100/Applying-SQL-filters)
-- <b>Python</b>
-  - [Algorithm for file updates in Python](https://github.com/gabriel-r100/Algorithm-file-update-Python)
+- <b>[Python](https://github.com/gabriel-r100/Python)</b>
 - <b>[Linux](https://github.com/gabriel-r100/Linux)</b>
   - Directory navigation, file/directory permissions and ownership, tile output, and manipulation with `grep` and `sed`.
   - Network interface configuration, DNS configuration
