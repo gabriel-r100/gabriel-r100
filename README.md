@@ -7,7 +7,7 @@
  Working on developing my skills as an IT professional.<br>
  Currently working on adding my projects onto Github.<br>
 <h4>Active Certifications:</h4>
- <b>Cisco:</b> CCNA | <b>CompTIA:</b> Security+, Network+, A+ | <b>Microsoft:</b> AZ900 - Microsoft Azure Fundamentals
+ <b>Cisco:</b> CCNA | <b>CompTIA:</b> Security+, Network+, A+ | <b>Microsoft:</b> AZ-900 - Microsoft Azure Fundamentals
 
 <h2>👨‍💻 Projects:</h2>
 
