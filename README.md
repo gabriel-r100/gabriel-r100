@@ -1,11 +1,12 @@
 <h1>Hi, I'm Gabriel! IT Professional</h1>
-<h3>Connect with me at 
-<img alt="Gabriel Roque" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></h3>
 
-[linkedin]: https://www.linkedin.com/in/gabriel-r100
+<h3>Connect with me at:</h3>
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-r100)
 
  Working on developing my skills as an IT professional.<br>
  Currently working on adding my projects onto Github.<br>
+ 
 <h4>Active Certifications:</h4>
  <b>Cisco:</b> CCNA | <b>CompTIA:</b> Security+, Network+, A+ | <b>Microsoft:</b> AZ-900 - Microsoft Azure Fundamentals
 
@@ -40,7 +41,7 @@
 
 
 <!--
-
+<!-- <img alt="Gabriel Roque" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></h3> -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
