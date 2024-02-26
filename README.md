@@ -34,8 +34,9 @@
   - Functions, methods, text manipulation, algorithms, and general Python learnings.
   - Python Crash Course code
 - <b>[Linux](https://github.com/gabriel-r100/Linux)</b>
-  - Directory navigation, file/directory permissions and ownership, tile output, and manipulation with `grep` and `sed`.
+  - Directory navigation, file/directory permissions, output manipulation
   - Network interface configuration, DNS configuration
+  - Software and process management
 
 <h2> 🌱 I’m currently learning Python using the book "Python Crash Course Edition 3"</h2>
 
