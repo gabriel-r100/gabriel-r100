@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-r100)
 
- Working on developing my skills as an IT professional.<br>
+ Working on developing my skills as an IT professional in networking, cybersecurity, programming, and cloud services.<br>
  Currently working on adding my projects onto Github.<br>
  
 <h4>Active Certifications:</h4>
