@@ -31,7 +31,7 @@
 - <b>SQL</b>
   - [Applying SQL filters to queries](https://github.com/gabriel-r100/Applying-SQL-filters)
 - <b>[Python](https://github.com/gabriel-r100/Python)</b>
-  - Functions, methods, text manipulation, algorithms, and general Python learnings.
+  - Functions, methods, text manipulation, algorithms, best practices
   - Python Crash Course code
 - <b>[Linux](https://github.com/gabriel-r100/Linux)</b>
   - Directory navigation, file/directory permissions, output manipulation
