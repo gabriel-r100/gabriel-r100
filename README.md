@@ -16,7 +16,7 @@
   - [Creating a live SOC / honeynet in Azure](https://github.com/gabriel-r100/Azure-Honeynet)
     - Deploy resources in Azure, including Azure Key Vault, Azure Storage Accounts, Storage Containers, Windows and Linux Virtual Machines. Additionally we worked with Subscription-level and Resource-group objects, configuring logging for all these objects.
     - Configured log forwarding to Log Analytic workspaces on resources and my subscription. Using KQL in combination of Microsoft Sentinel to query these logs and automatically generate open incidents.
-    - Respond to and close incidents using NIST 800-61 recommended steps. Following NIST 800-53 SC7 to harden our environment, measure results of attacks before and after hardening.
+    - Respond to and close incidents using NIST 800-61 recommended steps. Following NIST 800-53 SC7 to harden our environment, measuring the results of attacks before and after hardening.
   - [Cloud Uploader via CLI](https://github.com/gabriel-r100/Cloud-Uploader)
     - Bash script using Azure CLI commands to upload to a designated storage blob. Validates input, and allows for errors to advise on issues uploading.
 - <b>🔌 Network Projects</b>
