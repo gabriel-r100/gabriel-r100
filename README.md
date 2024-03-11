@@ -34,7 +34,7 @@
   - Functions, methods, text manipulation, algorithms, best practices
   - Python Crash Course code
 - <b>[Linux](https://github.com/gabriel-r100/Linux)</b>
-  - Directory navigation, file/directory permissions, output manipulation
+  - Directory navigation, file/directory permissions, output manipulation, archiving, compression
   - Network interface configuration, DNS configuration
   - Software and process management
 
